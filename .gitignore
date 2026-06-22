@@ -1,0 +1,21 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+*.egg-info/
+
+# Data
+data/chroma/
+data/*.txt
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
